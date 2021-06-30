@@ -1,7 +1,6 @@
 ### Hi, I'm Gaston-Artigau👋
 - Starting in the world of Programming, with Python on the Backend🐍.
 - And web development with HTML, CSS and JavaScript on the Frontend💻.
-- At the moment only basic concepts📚.
 - With desire and enthusiasm to learn and progress😊📈.
 - I live in Argentina 🇦🇷.
 ---
